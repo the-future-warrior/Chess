@@ -1,0 +1,1 @@
+keep all higlighters active, for raycasting. But set its alpha to zero to make it invisible.

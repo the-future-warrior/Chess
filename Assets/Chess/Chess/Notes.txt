@@ -1,0 +1,11 @@
+King has 4266 triangles.
+Pawn has 2652 triangles.
+Board without surround has 320 triangles.
+Surround has 196 triangles.
+Scaling: 
+    board (not counting surround) is 18.9" or 48cm square
+    Surround is 22.8" square and 3.54" high, or 57.8cm square by 9cm high.
+    King is 4.68" or 11.9cm high
+
+
+
